@@ -1,0 +1,96 @@
+<mat-toolbar color="primary">
+    <!-- Menú Estudiantes -->
+    <button mat-button [routerLink]="['/estudiantes']" [matMenuTriggerFor]="estudiantesMenu">
+      <mat-icon>school</mat-icon>
+      Estudiantes
+      
+    </button>
+    <mat-menu #estudiantesMenu="matMenu">
+      <button mat-menu-item>
+        <mat-icon>list</mat-icon>
+        Listar
+      </button>
+      <button mat-menu-item>
+        <mat-icon>find_in_page</mat-icon>
+        Obtener
+      </button>
+      <button mat-menu-item>
+        <mat-icon>person_add</mat-icon>
+        Crear
+      </button>
+      <button mat-menu-item>
+        <mat-icon>edit</mat-icon>
+        Actualizar
+      </button>
+    </mat-menu>
+  
+    <!-- Menú Profesores -->
+    <button mat-button [routerLink]="['/profesores']" [matMenuTriggerFor]="profesoresMenu">
+      <mat-icon>person</mat-icon>
+      Profesores
+    </button>
+    <mat-menu #profesoresMenu="matMenu">
+      <button mat-menu-item>
+        <mat-icon>list</mat-icon>
+        Listar
+      </button>
+      <button mat-menu-item>
+        <mat-icon>find_in_page</mat-icon>
+        Obtener
+      </button>
+      <button mat-menu-item>
+        <mat-icon>person_add</mat-icon>
+        Crear
+      </button>
+      <button mat-menu-item>
+        <mat-icon>edit</mat-icon>
+        Actualizar
+      </button>
+    </mat-menu>
+  
+    <!-- Menú Materias -->
+    <button mat-button [matMenuTriggerFor]="materiasMenu" [matMenuTriggerFor]="materiasMenu">
+      <mat-icon>book</mat-icon>
+      Materias
+    </button>
+    <mat-menu #materiasMenu="matMenu">
+      <button mat-menu-item  [matMenuTriggerFor]="materiasEstudiantesMenu">
+        <mat-icon>school</mat-icon>
+        Estudiantes
+      </button>
+      <mat-menu #materiasEstudiantesMenu="matMenu">
+        <button mat-menu-item>
+          <mat-icon>visibility</mat-icon>
+          Ver Materias
+        </button>
+        <button mat-menu-item>
+          <mat-icon>check_circle</mat-icon>
+          Inscribir Materia
+        </button>
+      </mat-menu>
+  
+      <button mat-menu-item [matMenuTriggerFor]="materiasDocentesMenu">
+        <mat-icon>person</mat-icon>
+        Docentes
+      </button>
+      <mat-menu #materiasDocentesMenu="matMenu">
+        <button mat-menu-item>
+          <mat-icon>add_circle</mat-icon>
+          Crear Materia
+        </button>
+        <button mat-menu-item>
+          <mat-icon>assignment_ind</mat-icon>
+          Asignar Docente
+        </button>
+        <button mat-menu-item>
+          <mat-icon>delete</mat-icon>
+          Eliminar
+        </button>
+      </mat-menu>
+    </mat-menu>
+  </mat-toolbar>
+  
+
+
+
+
