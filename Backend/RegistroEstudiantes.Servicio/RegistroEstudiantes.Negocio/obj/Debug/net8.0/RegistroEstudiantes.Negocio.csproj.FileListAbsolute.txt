@@ -1,0 +1,15 @@
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\bin\Debug\net8.0\RegistroEstudiantes.Negocio.deps.json
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\bin\Debug\net8.0\RegistroEstudiantes.Negocio.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\bin\Debug\net8.0\RegistroEstudiantes.Negocio.pdb
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\RegistroEstudiantes.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\RegistroEstudiantes.Negocio.AssemblyInfoInputs.cache
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\RegistroEstudiantes.Negocio.AssemblyInfo.cs
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\RegistroEstudiantes.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\RegistroEstudiantes.Negocio.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\refint\RegistroEstudiantes.Negocio.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\RegistroEstudiantes.Negocio.pdb
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\ref\RegistroEstudiantes.Negocio.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\bin\Debug\net8.0\RegistroEstudiantes.ContratoDatos.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\bin\Debug\net8.0\RegistroEstudiantes.ContratoDatos.pdb
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\RegistroEstudiantes.Negocio.csproj.AssemblyReference.cache
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Negocio\obj\Debug\net8.0\Registro.6DA0B2F1.Up2Date

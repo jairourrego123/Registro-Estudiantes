@@ -1,0 +1,17 @@
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\bin\Debug\net8.0\RegistroEstudiantes.Datos.deps.json
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\bin\Debug\net8.0\RegistroEstudiantes.Datos.runtimeconfig.json
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\bin\Debug\net8.0\RegistroEstudiantes.Datos.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\bin\Debug\net8.0\RegistroEstudiantes.Datos.pdb
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\RegistroEstudiantes.Datos.csproj.AssemblyReference.cache
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\RegistroEstudiantes.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\RegistroEstudiantes.Datos.AssemblyInfoInputs.cache
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\RegistroEstudiantes.Datos.AssemblyInfo.cs
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\RegistroEstudiantes.Datos.csproj.CoreCompileInputs.cache
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\RegistroEstudiantes.Datos.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\refint\RegistroEstudiantes.Datos.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\RegistroEstudiantes.Datos.pdb
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\RegistroEstudiantes.Datos.genruntimeconfig.cache
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\ref\RegistroEstudiantes.Datos.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\bin\Debug\net8.0\RegistroEstudiantes.ContratoDatos.dll
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\bin\Debug\net8.0\RegistroEstudiantes.ContratoDatos.pdb
+C:\Users\mille\OneDrive\Documentos\ProyectosC#\RegistroEstudiantes.Servicio\RegistroEstudiantes.Datos\obj\Debug\net8.0\Registro.D2B4C329.Up2Date

@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.datos\\registrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|solutionrelative:registroestudiantes.datos\\registrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56260F51-3A86-42E4-8C4A-908822C21B56}|RegistroEstudiantes.Servicio\\RegistroEstudiantes.Servicio.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.servicio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56260F51-3A86-42E4-8C4A-908822C21B56}|RegistroEstudiantes.Servicio\\RegistroEstudiantes.Servicio.csproj|solutionrelative:registroestudiantes.servicio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.datos\\interfaces\\iprofesorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|solutionrelative:registroestudiantes.datos\\interfaces\\iprofesorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56260F51-3A86-42E4-8C4A-908822C21B56}|RegistroEstudiantes.Servicio\\RegistroEstudiantes.Servicio.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.servicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56260F51-3A86-42E4-8C4A-908822C21B56}|RegistroEstudiantes.Servicio\\RegistroEstudiantes.Servicio.csproj|solutionrelative:registroestudiantes.servicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.datos\\interfaces\\imateriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|solutionrelative:registroestudiantes.datos\\interfaces\\imateriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.datos\\interfaces\\iestudianterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|solutionrelative:registroestudiantes.datos\\interfaces\\iestudianterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.datos\\repositorios\\estudianterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|solutionrelative:registroestudiantes.datos\\repositorios\\estudianterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60922502-FD17-43BE-A08D-C77E25DC060B}|RegistroEstudiantes.Negocio\\RegistroEstudiantes.Negocio.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.negocio\\registroestudiantes.negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60922502-FD17-43BE-A08D-C77E25DC060B}|RegistroEstudiantes.Negocio\\RegistroEstudiantes.Negocio.csproj|solutionrelative:registroestudiantes.negocio\\registroestudiantes.negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A6A54E-7644-4248-889F-2A1656FAED8E}|RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.contratodatos\\registroestudiantes.contratodatos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{45A6A54E-7644-4248-889F-2A1656FAED8E}|RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj|solutionrelative:registroestudiantes.contratodatos\\registroestudiantes.contratodatos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.datos\\repositorios\\profesorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|solutionrelative:registroestudiantes.datos\\repositorios\\profesorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|c:\\users\\mille\\onedrive\\documentos\\proyectosc#\\registroestudiantes.servicio\\registroestudiantes.datos\\repositorios\\materiarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521D2C7-DF70-45DA-AF00-82291F3728C5}|RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj|solutionrelative:registroestudiantes.datos\\repositorios\\materiarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroContext.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\RegistroContext.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Datos\\RegistroContext.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\RegistroContext.cs",
+              "RelativeToolTip": "RegistroEstudiantes.Datos\\RegistroContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:26:21.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Servicio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Servicio\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Servicio\\appsettings.Development.json",
+              "RelativeToolTip": "RegistroEstudiantes.Servicio\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T13:24:13.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProfesorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\interfaces\\IProfesorRepositorio.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Datos\\interfaces\\IProfesorRepositorio.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\interfaces\\IProfesorRepositorio.cs",
+              "RelativeToolTip": "RegistroEstudiantes.Datos\\interfaces\\IProfesorRepositorio.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:13:55.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Servicio\\Program.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Servicio\\Program.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Servicio\\Program.cs",
+              "RelativeToolTip": "RegistroEstudiantes.Servicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:25:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMateriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\interfaces\\IMateriaRepositorio.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Datos\\interfaces\\IMateriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\interfaces\\IMateriaRepositorio.cs",
+              "RelativeToolTip": "RegistroEstudiantes.Datos\\interfaces\\IMateriaRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:12:03.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEstudianteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\interfaces\\IEstudianteRepositorio.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Datos\\interfaces\\IEstudianteRepositorio.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\interfaces\\IEstudianteRepositorio.cs",
+              "RelativeToolTip": "RegistroEstudiantes.Datos\\interfaces\\IEstudianteRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:11:14.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstudianteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\repositorios\\EstudianteRepositorio.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Datos\\repositorios\\EstudianteRepositorio.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\repositorios\\EstudianteRepositorio.cs",
+              "RelativeToolTip": "RegistroEstudiantes.Datos\\repositorios\\EstudianteRepositorio.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:03:19.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroEstudiantes.Negocio.csproj",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Negocio\\RegistroEstudiantes.Negocio.csproj",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Negocio\\RegistroEstudiantes.Negocio.csproj",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Negocio\\RegistroEstudiantes.Negocio.csproj",
+              "RelativeToolTip": "RegistroEstudiantes.Negocio\\RegistroEstudiantes.Negocio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T07:36:37.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistroEstudiantes.ContratoDatos",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj",
+              "RelativeToolTip": "RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T12:09:26.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfesorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\repositorios\\ProfesorRepositorio.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Datos\\repositorios\\ProfesorRepositorio.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\repositorios\\ProfesorRepositorio.cs",
+              "RelativeToolTip": "RegistroEstudiantes.Datos\\repositorios\\ProfesorRepositorio.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:27:43.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MateriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\repositorios\\MateriaRepositorio.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes.Datos\\repositorios\\MateriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\repositorios\\MateriaRepositorio.cs",
+              "RelativeToolTip": "RegistroEstudiantes.Datos\\repositorios\\MateriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:24:06.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

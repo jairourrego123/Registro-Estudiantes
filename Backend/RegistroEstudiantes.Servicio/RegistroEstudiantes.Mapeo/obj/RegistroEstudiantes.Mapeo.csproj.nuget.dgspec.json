@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Mapeo\\RegistroEstudiantes.Mapeo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj",
+        "projectName": "RegistroEstudiantes.ContratoDatos",
+        "projectPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj",
+        "packagesPath": "C:\\Users\\mille\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mille\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj",
+        "projectName": "RegistroEstudiantes.Datos",
+        "projectPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj",
+        "packagesPath": "C:\\Users\\mille\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mille\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj": {
+                "projectPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24474.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24474.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24474.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Mapeo\\RegistroEstudiantes.Mapeo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Mapeo\\RegistroEstudiantes.Mapeo.csproj",
+        "projectName": "RegistroEstudiantes.Mapeo",
+        "projectPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Mapeo\\RegistroEstudiantes.Mapeo.csproj",
+        "packagesPath": "C:\\Users\\mille\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Mapeo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mille\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj": {
+                "projectPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.ContratoDatos\\RegistroEstudiantes.ContratoDatos.csproj"
+              },
+              "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj": {
+                "projectPath": "C:\\Users\\mille\\OneDrive\\Documentos\\ProyectosC#\\RegistroEstudiantes.Servicio\\RegistroEstudiantes.Datos\\RegistroEstudiantes.Datos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
