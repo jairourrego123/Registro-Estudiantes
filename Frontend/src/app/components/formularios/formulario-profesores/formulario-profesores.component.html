@@ -1,0 +1,16 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+   
+  
+    <mat-form-field>
+      <mat-label>Nombre del profesor</mat-label>
+      <input matInput formControlName="nombre" />
+      <mat-error *ngIf="form.get('nombre')?.hasError('required')">El nombre es obligatorio.</mat-error>
+      <mat-error *ngIf="form.get('nombre')?.hasError('minlength')">El nombre debe tener al menos 3 caracteres.</mat-error>
+    </mat-form-field>
+  
+    <div class="contenedor-botones">
+        <button type="submit" color="primary"  mat-flat-button [disabled]="form.invalid"><mat-icon>save</mat-icon>Guardar Cambios</button>
+        <a mat-stroked-button routerLink="/estudiantes/listar ">Cancelar</a>
+    </div>
+  </form>
+  

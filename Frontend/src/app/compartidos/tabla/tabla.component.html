@@ -1,14 +1,18 @@
-<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+<div class="container-tabla">
+    <h2>{{titulo}}</h2>
+<mat-table [dataSource]="filas" class="mat-elevation-z8">
 
-  <!-- Definir las columnas dinámicamente -->
-  <ng-container *ngFor="let column of displayedColumns" [matColumnDef]="column">
-    <th mat-header-cell *matHeaderCellDef> {{ column | titlecase }} </th>
-    <td mat-cell *matCellDef="let element"> {{ element[column] }} </td>
-  </ng-container>
+    <!-- Dynamic columns -->
+    <ng-container *ngFor="let columna of columnas" [matColumnDef]="columna">
+      <mat-header-cell *matHeaderCellDef> {{columna}} </mat-header-cell>
+      <mat-cell *matCellDef="let element"> {{element[columna]}} </mat-cell>
+    </ng-container>
+  
+    <!-- Header row -->
+    <mat-header-row *matHeaderRowDef="columnas"></mat-header-row>
+    <!-- Row -->
+    <mat-row *matRowDef="let row; columns: columnas;"></mat-row>
+  
+  </mat-table>
 
-  <!-- Fila de encabezado -->
-  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-  <!-- Fila de datos -->
-  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-
-</table>
+</div>

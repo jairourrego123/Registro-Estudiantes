@@ -1,0 +1,31 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <h2>{{ titulo }}</h2>
+  
+    <!-- Campo 1 con autocomplete -->
+    <mat-form-field appearance="fill">
+      <mat-label>{{campo1}}</mat-label>
+      <input type="text" matInput formControlName="campo1" [matAutocomplete]="auto1">
+      <mat-autocomplete #auto1="matAutocomplete">
+        <mat-option *ngFor="let option of filteredOptionsCampo1 | async" [value]="option.nombre">
+          {{ option.nombre }}
+        </mat-option>
+      </mat-autocomplete>
+    </mat-form-field>
+  
+    <!-- Campo 2 con autocomplete -->
+    <mat-form-field appearance="fill">
+      <mat-label>{{campo2}}</mat-label>
+      <input type="text" matInput formControlName="campo2" [matAutocomplete]="auto2">
+      <mat-autocomplete #auto2="matAutocomplete">
+        <mat-option *ngFor="let option of filteredOptionsCampo2 | async" [value]="option.nombre">
+          {{ option.nombre }}
+        </mat-option>
+      </mat-autocomplete>
+    </mat-form-field>
+  
+    <div class="contenedor-botones">
+        <button type="submit" color="primary"  mat-flat-button [disabled]="form.invalid"><mat-icon>save</mat-icon>Guardar Cambios</button>
+        <a mat-stroked-button routerLink="/estudiantes/listar ">Cancelar</a>
+    </div>
+  </form>
+  

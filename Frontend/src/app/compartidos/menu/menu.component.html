@@ -1,55 +1,42 @@
-<mat-toolbar color="primary">
+<mat-toolbar color="primary"  >
     <!-- Menú Estudiantes -->
-    <button mat-button [routerLink]="['/estudiantes']" [matMenuTriggerFor]="estudiantesMenu">
+    <button mat-button   [matMenuTriggerFor]="estudiantesMenu">
       <mat-icon>school</mat-icon>
       Estudiantes
-      
     </button>
     <mat-menu #estudiantesMenu="matMenu">
-      <button mat-menu-item>
+      <button mat-menu-item [routerLink]="['/estudiantes/listar']">
         <mat-icon>list</mat-icon>
         Listar
       </button>
-      <button mat-menu-item>
-        <mat-icon>find_in_page</mat-icon>
-        Obtener
-      </button>
-      <button mat-menu-item>
+
+      <button mat-menu-item [routerLink]="['/estudiantes/crear']">
         <mat-icon>person_add</mat-icon>
         Crear
       </button>
-      <button mat-menu-item>
-        <mat-icon>edit</mat-icon>
-        Actualizar
-      </button>
+      
     </mat-menu>
   
     <!-- Menú Profesores -->
-    <button mat-button [routerLink]="['/profesores']" [matMenuTriggerFor]="profesoresMenu">
+    <button mat-button  [matMenuTriggerFor]="profesoresMenu">
       <mat-icon>person</mat-icon>
       Profesores
     </button>
     <mat-menu #profesoresMenu="matMenu">
-      <button mat-menu-item>
+      <button mat-menu-item [routerLink]="['/profesores/listar']"  >
         <mat-icon>list</mat-icon>
         Listar
       </button>
-      <button mat-menu-item>
-        <mat-icon>find_in_page</mat-icon>
-        Obtener
-      </button>
-      <button mat-menu-item>
+     
+      <button mat-menu-item [routerLink]="['/profesores/crear']" >
         <mat-icon>person_add</mat-icon>
         Crear
       </button>
-      <button mat-menu-item>
-        <mat-icon>edit</mat-icon>
-        Actualizar
-      </button>
+     
     </mat-menu>
   
     <!-- Menú Materias -->
-    <button mat-button [matMenuTriggerFor]="materiasMenu" [matMenuTriggerFor]="materiasMenu">
+    <button mat-button  [matMenuTriggerFor]="materiasMenu">
       <mat-icon>book</mat-icon>
       Materias
     </button>
@@ -59,11 +46,11 @@
         Estudiantes
       </button>
       <mat-menu #materiasEstudiantesMenu="matMenu">
-        <button mat-menu-item>
-          <mat-icon>visibility</mat-icon>
-          Ver Materias
+        <button mat-menu-item [routerLink]="['/materias/listar/companeros']" >
+          <mat-icon>find_in_page</mat-icon>
+          Ver compañeros
         </button>
-        <button mat-menu-item>
+        <button mat-menu-item [routerLink]="['/materias/asignar/estudiante']">
           <mat-icon>check_circle</mat-icon>
           Inscribir Materia
         </button>
@@ -73,20 +60,22 @@
         <mat-icon>person</mat-icon>
         Docentes
       </button>
-      <mat-menu #materiasDocentesMenu="matMenu">
-        <button mat-menu-item>
+      <mat-menu #materiasDocentesMenu="matMenu" >
+        <button mat-menu-item [routerLink]="['/materias/crear']">
           <mat-icon>add_circle</mat-icon>
           Crear Materia
         </button>
-        <button mat-menu-item>
+        <button mat-menu-item [routerLink]="['/materias/asignar/docente']">
           <mat-icon>assignment_ind</mat-icon>
           Asignar Docente
         </button>
-        <button mat-menu-item>
-          <mat-icon>delete</mat-icon>
-          Eliminar
-        </button>
+       
       </mat-menu>
+      <button mat-menu-item [routerLink]="['/materias/listar']" >
+        <mat-icon>visibility</mat-icon>
+        Ver Materias
+      </button>
+     
     </mat-menu>
   </mat-toolbar>
   
